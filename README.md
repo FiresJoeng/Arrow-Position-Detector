@@ -4,7 +4,7 @@
 
 基于Python的实时检测鼠标指针坐标位置的小程序，已用PyInstaller打包。
 
-源代码发布在：[github.com/FiresJoeng/](https://github.com/FiresJoeng/Arrow-Position-Detector)
+源代码发布在：[@FiresJoeng Arrow-Position-Detector](https://github.com/FiresJoeng/Arrow-Position-Detector)
 
 This python program can detect mouse pointer coordinates in real time.
 
